@@ -1,5 +1,9 @@
 # GTA VI trophy rarity forecast
 
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/NuggiePratama/gta6-trophy-rarity-forecast-01/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/NuggiePratama/gta6-trophy-rarity-forecast-01/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+
 Forecast, for every Grand Theft Auto VI trophy on PlayStation 5, the percent
 of the players Exophase tracks who will have earned it at 2026-11-26T00:00Z,
 as five quantiles per trophy, from the house's recording of the trophy page
@@ -111,3 +115,7 @@ directory; it only creates it and writes files.
 - The flat-history dilution prior (0.9 logit) is a judgment call from
   the one documented refresh, not a fitted parameter; it only fires
   when the whole history is one state.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=e7kjxsk8&utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01) · AI agents build software for cash rewards</sub>
